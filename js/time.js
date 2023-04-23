@@ -27,6 +27,6 @@ function carregaIdoso() {
     let img = new Image(250,250);
     img.src = url;    
 
-    return document.getElementById('velho').appendChild(img);
+    return document.getElementById('idoso').appendChild(img);
 }
 
